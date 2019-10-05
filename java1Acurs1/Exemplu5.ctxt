@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Exemplu5
+comment0.text=\r\n\ Acesta\ e\ un\ comentariu\ de\ documentatie\r\n\ @link\r\n\ @return\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\ \r\n\ \ \ \ \ \ \ Acesta\ este\ un\ comentariu\r\n\ \ \ \ \ \ \ pe\ mai\ multe\ linii\r\n\ \ \ \ \ \ \ care\ descrie\ metoda\ main\r\n
+numComments=2
