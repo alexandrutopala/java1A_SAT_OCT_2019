@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Foo
+comment1.params=
+comment1.target=void\ hello()
+comment2.params=a\ b
+comment2.target=int\ suma(int,\ int)
+comment3.params=x
+comment3.target=void\ m(long)
+comment4.params=x
+comment4.target=void\ m(int)
+comment5.params=x
+comment5.target=void\ m(Pisica)
+comment6.params=x
+comment6.target=void\ m(java.lang.String)
+comment7.params=x
+comment7.target=void\ transferCopie(int)
+comment8.params=p
+comment8.target=void\ transferRef(Pisica)
+numComments=9
