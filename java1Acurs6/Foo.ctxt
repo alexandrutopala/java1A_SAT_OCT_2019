@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Foo
+comment1.params=ref
+comment1.target=void\ transRef(Pisica)
+comment2.params=x
+comment2.target=void\ transVal(int)
+numComments=3
